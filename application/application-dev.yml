@@ -90,7 +90,7 @@ paascloud:
       accessKeyId: 'your aliyun accessKeyId'
       accessKeySecret: 'your aliyun accessKeySecret'
     rocketMq:
-      namesrvAddr: 47.96.173.142:9876
+      namesrvAddr: 127.0.0.1:9876
     sms:
       signName: 快乐学习网
       regionId: cn-beijing
